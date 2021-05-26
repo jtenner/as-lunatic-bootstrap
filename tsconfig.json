@@ -1,0 +1,6 @@
+{
+  "extends": "as-lunatic/tsconfig.json",
+  "include": [
+    "./**/*.ts"
+  ]
+}
